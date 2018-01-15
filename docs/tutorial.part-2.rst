@@ -192,7 +192,7 @@ Go ahead and init the chain, with the script that populus created:
 
 .. code-block:: bash
 
-  $ chains/horton/./init_chain.sh
+  $ sh chains/horton/./init_chain.sh
 
 Geth will init the blockchain:
 
